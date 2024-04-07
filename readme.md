@@ -34,3 +34,11 @@ config.local.js
 
 # Binarios
 bin/
+
+# 3e 
+
+& --> obtenemos la dirección de memoria de una variable
+puntero --> almacena como valor la dirección de memoria de una variable 
+
+como en ambos casos nos referimos a la misma variable , ambas direcciones son iguales .
+
