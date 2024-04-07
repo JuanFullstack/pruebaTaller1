@@ -1,4 +1,4 @@
- #### ¿Por qué es conveniente incluirlo? ¿Cuándo se debe hacer?¿Cómo configuraría el archivo .gitignore?
+ # ¿Por qué es conveniente incluirlo? ¿Cuándo se debe hacer?¿Cómo configuraría el archivo .gitignore?
 
 **Mantén tu repositorio ordenado:** Evita que archivos innecesarios como archivos temporales, binarios o de configuración personal se rastreen en el historial de Git.
 
